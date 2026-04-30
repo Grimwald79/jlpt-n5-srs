@@ -1,0 +1,22 @@
+Python artifacts
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual Environments
+
+venv/
+.venv/
+env/
+
+IDEs
+
+.idea/
+.vscode/
+*.swp
+
+User Progress Data
+
+data/srs_state.json
+data/srs_state.json.tmp
